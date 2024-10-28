@@ -2,6 +2,6 @@
 
 __The Geography of Assortative Matching__
 
-<img src="https://github.com/giacomocarlini/giacomocarlini.github.io/blob/main/images/deu_pam_map.png" width="50" height= "50" >
+<img src="https://github.com/giacomocarlini/giacomocarlini.github.io/blob/main/images/deu_pam_map.png" width="100" height= "100" >
 
 __Task-Biased Technological Change Across Countries__  *with Paula Cesana*
