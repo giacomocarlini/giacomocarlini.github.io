@@ -1,5 +1,7 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
+<img align="left" src="images/gc_website.jpeg"  style="width:250px;"  >
+
 #### Welcome!
 
 I am an Economics PhD student at Queen Mary University of London. 
