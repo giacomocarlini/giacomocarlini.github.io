@@ -2,7 +2,7 @@
 
 __The Geography of Assortative Matching__
 
-<img src="images/deu_pam_map.png" height="200" width="200" >
+<img src="images/deu_pam_map.png" height="400" width="400" >
 
 *Draft available soon!*
 
