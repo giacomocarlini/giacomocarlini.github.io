@@ -2,8 +2,8 @@
 
 __The Geography of Assortative Matching__
 
-Draft coming soon! 
+Draft available soon! 
 
-![](/images/deu_pam_map.png=250x250)
+![](/images/deu_pam_map.png!width=10)
 
 __Task-Biased Technological Change Across Countries__  *with Paula Cesana*
