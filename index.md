@@ -1,7 +1,7 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
 
- #### Welcome!
+ # Welcome!
 
  I am an Economics PhD student at Queen Mary University of London. 
 
