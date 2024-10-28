@@ -1,6 +1,6 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
-<img align="left" src="images/gc_website.jpeg"  style="width:150px;"  >
+<img align="left" src="images/gc_website.jpeg"  style="width:150px;"  />
 
 #### Welcome!
 
