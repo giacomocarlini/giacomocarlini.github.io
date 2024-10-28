@@ -2,7 +2,6 @@
 
 __The Geography of Assortative Matching__
 
-Draft available soon! 
 
 ![](/images/deu_pam_map.png!width=10)
 
