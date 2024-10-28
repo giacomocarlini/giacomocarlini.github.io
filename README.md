@@ -1,6 +1,5 @@
 
 
-<img align="left" src="images/gc_website.jpeg"  style="width:250px;"  >
 
 #### Welcome!
 
