@@ -8,7 +8,7 @@ This paper investigates why assortative matching between workers and firms is st
 
 <figure>
   
-  <figcaption> *Degree of Assortative Matching across local labor markets in West Germany (2010 - 2017)* </figcaption>
+  <figcaption> <em>Degree of Assortative Matching across local labor markets in West Germany (2010 - 2017)</em> </figcaption>
   <img src="images/deu_pam_map.png"  style="float: right; margin-left: 10px; width:500px;"  >
 
 </figure>
