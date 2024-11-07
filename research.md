@@ -1,5 +1,9 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
+.page__content {
+  text-align: justify;
+}
+
 __The Geography of Assortative Matching__
 
 *Draft available soon!*
