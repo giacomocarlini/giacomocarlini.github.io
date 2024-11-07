@@ -10,4 +10,4 @@
 
 You can contact me at [g.carlini@qmul.ac.uk](mailto:g.carlini@qmul.ac.uk)
 
-CLick here to download my cv: <a href="assets/gcarlini_cv.pdf" target="_blank">Download my CV</a>
+You can find my CV here: <a href="assets/gcarlini_cv.pdf" target="_blank">here</a>
