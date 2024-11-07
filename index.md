@@ -1,4 +1,4 @@
-[Home](index.md)  &nbsp; &nbsp;  [Research](research.md) &nbsp; &nbsp;  [CV](CV.md)  
+[Home](index.md)  &nbsp; &nbsp;  [Research](research.md) 
 
 
 
