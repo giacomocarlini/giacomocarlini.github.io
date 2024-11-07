@@ -1,5 +1,6 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
+{% include analytics.html %}
 
 **Welcome!**
 
