@@ -13,6 +13,6 @@ This paper investigates why assortative matching between workers and firms is st
 
 </figure>
 
-=======================================================================================================================================
+___
 
 __Task-Biased Technological Change Across Countries__  *with Paula Cesana*
