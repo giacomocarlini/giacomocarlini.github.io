@@ -10,12 +10,6 @@ This paper investigates why assortative matching between workers and firms is st
 
 **<small>Presented at</small>**: <small> QMUL Macro Internal Seminar (2024), NSE 3rd PhD and Post-Doctoral Workshop in Economics and Finance (2024), 22nd edition Brucchi Luchino Workshop in Labor Economics (2024) _(selected)_</small>
 
-<figure>
-  
-  <figcaption> <em>Degree of Assortative Matching across local labor markets in West Germany (2010 - 2017)</em> </figcaption>
-  <img src="images/deu_pam_map.png"  style="float: right; margin-left: 10px; width:500px;"  >
-
-</figure>
 
 ___
 
