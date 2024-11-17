@@ -8,7 +8,7 @@
 
 **My research interests are in Macroeconomics, Labor Economics, Growth and Development.**
 
-_I am on the 24/25 Economic Job Market _
+_I am on the 24/25 Economic Job Market_
 
 You can contact me at [g.carlini@qmul.ac.uk](mailto:g.carlini@qmul.ac.uk)
 
