@@ -4,7 +4,7 @@
 
 **Welcome!**
 
-**I am PhD student in Economics at Queen Mary University of London.** 
+**I am a PhD student in Economics at Queen Mary University of London.** 
 
 **My research interests are in Macroeconomics, Labor Economics, Growth and Development.**
 
