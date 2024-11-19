@@ -14,7 +14,7 @@ __The Geography of Assortative Matching__
 ___
 
 
-__Task-Biased Technological Change Across Countries__  *with Paula Cesana*
+__Task-Biased Technologies Adoption Across Countries__  *with Paula Cesana*
 
 In this project we study how the task content of occupations differs across countries.
 Using data from PIAAC, we propose a measure of “task intensity” to quantify the relative importance
