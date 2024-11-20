@@ -18,6 +18,7 @@ __Task-Biased Technologies Adoption Across Countries__  *with Paula Cesana*
 
 _Draft Available Soon!_
 
+<p style='text-align: justify;'>  
 In this project we study how the task content of occupations differs across countries.
 Using data from PIAAC, we propose a measure of “task intensity” to quantify the relative importance
 of each task within occupation, across countries. We find there is a negative relation between
@@ -30,7 +31,7 @@ all occupations, since tasks are common to all of them. In the cross-country con
 a relatively high intensity in routine tasks as a low routine specific productivity relatively to the
 other tasks. In the quantitative exercise we calibrate the model by matching moments obtained
 from the survey and from aggregate data. Eliminating dispersion in task productivity reduces GDP per capita variation by 10%, significantly benefiting low-income countries.
-
+</p>
 
 **<small>Presented at</small>**: <small> QMUL Macro Internal Seminar (2022)
 
