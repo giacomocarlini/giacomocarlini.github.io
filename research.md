@@ -29,8 +29,7 @@ depends on tasks productivity: when tasks are complements in production, an incr
 productivity of one task reduces its intensity with respect to the others. This is reflected in
 all occupations, since tasks are common to all of them. In the cross-country context, we interpret
 a relatively high intensity in routine tasks as a low routine specific productivity relatively to the
-other tasks. In the quantitative exercise we calibrate the model by matching moments obtained
-from the survey and from aggregate data. Eliminating dispersion in tasks productivity reduces GDP per capita variation by 10%, significantly benefiting low-income countries.
+other tasks. Finally, we use the model to understand what are the implications for GDP differences across countries.
 </p>
 
 **<small>Presented at</small>**: <small> QMUL Macro Internal Seminar (2022)
