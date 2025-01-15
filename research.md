@@ -1,6 +1,6 @@
 [Home](index.md)  &nbsp; &nbsp;  [Research](research.md)
 
-__The Geography of Assortative Matching__  _(JMP)_
+__The Geography of Assortative Matching__  __(JMP)__
 
 ( <a href="assets/tgam_paper.pdf" target="_blank">Draft </a> )
 
