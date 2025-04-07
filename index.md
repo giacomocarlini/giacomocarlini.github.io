@@ -8,8 +8,6 @@
 
 **My research interests are in Macroeconomics, Labor Economics, Growth and Development.**
 
-_I am on the 24/25 Economic Job Market_
-
 You can contact me at [g.carlini@qmul.ac.uk](mailto:g.carlini@qmul.ac.uk)
 
 You can find my CV <a href="assets/gcarlini_cv.pdf" target="_blank">here.</a>
