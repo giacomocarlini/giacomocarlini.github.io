@@ -4,7 +4,7 @@
 
 **Welcome!**
 
-**I am Senior Economist at the National Bank of Slovakia.** 
+**I am a Senior Economist at the National Bank of Slovakia.** 
 
 **I received my PhD at Queen Mary University of London in 2025**
 
