@@ -16,7 +16,7 @@ ___
 
 __Task-Biased Technology Adoption Across Countries__  *with Paula Cesana*
 
-( <a href="assets/tbta_paper.pdf" target="_blank">Draft </a> )
+  *Draft available soon!*
 
 <p style='text-align: justify;'>  
 In this project we study how the task content of occupations differs across countries.
