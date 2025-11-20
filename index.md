@@ -12,4 +12,4 @@
 
 You can contact me at [giacomo.carlini@nbs.sk](mailto:giacomo.carlini@nbs.sk)
 
-You can find my CV <a href="assets/gcarlini_cv.pdf" target="_blank">here.</a>
+You can find my CV <a href="assets/cv_gcarlini.pdf" target="_blank">here.</a>
